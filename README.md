@@ -9,8 +9,8 @@ Sinta-se à vontade para explorar meus projetos e me enviar mensagens se tiver a
 
 Alguns dos meus projetos:
 
-[Mancers Diários](https://github.com/smmstakes/Mancers-Diarios)
-[Projeto ATM](https://github.com/smmstakes/Projeto-ATM)
+- [Mancers Diários](https://github.com/smmstakes/Mancers-Diarios)
+- [Projeto ATM](https://github.com/smmstakes/Projeto-ATM)
 
 ### Tecnologias que tenho conhecimento:
 
