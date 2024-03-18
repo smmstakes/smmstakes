@@ -28,3 +28,4 @@ Alguns dos meus projetos:
 <a href="https://github.com/smmstakes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smmstakes&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Matheus Duarte's github stats"/></a>   <a href="https://github.com/smmstakes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmstakes&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" /></a>
   
 **Obrigado por visitar meu perfil!**
+
